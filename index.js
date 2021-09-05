@@ -5,5 +5,5 @@ const publish = require('./lib/publish')
 module.exports = {
   verifyConditions: verify,
   prepare,
-  publish,
+  publish
 }
