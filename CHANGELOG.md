@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/akijoey/semantic-release-maven/compare/v1.0.1...v1.0.2) (2021-09-06)
+
+
+### Bug Fixes
+
+* aggregate error ([fe545f1](https://github.com/akijoey/semantic-release-maven/commit/fe545f1091b0b89485b03f9b6fa60c0ebe36297b))
+
 ## [1.0.1](https://github.com/akijoey/semantic-release-maven/compare/v1.0.0...v1.0.1) (2021-09-06)
 
 
