@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/akijoey/semantic-release-maven/compare/v1.0.0...v1.0.1) (2021-09-06)
+
+
+### Bug Fixes
+
+* import esm ([65df826](https://github.com/akijoey/semantic-release-maven/commit/65df826e0ad3605e55b947623b900aade5c0bfb5))
+
 # 1.0.0 (2021-09-05)
 
 
