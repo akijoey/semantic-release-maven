@@ -22,7 +22,7 @@
     "prepare": "dev-scripts hook"
   },
   "dependencies": {
-    "aggregate-error": "^4.0.0",
+    "aggregate-error": "^3.1.0",
     "execa": "^5.1.1",
     "fs-extra": "^10.0.0",
     "xml2js": "^0.4.23"
