@@ -1,6 +1,6 @@
 {
   "name": "semantic-release-maven",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "semantic-release plugin to publish a maven package.",
   "keywords": [
     "semantic-release"

@@ -1,3 +1,10 @@
+## [1.0.4](https://github.com/akijoey/semantic-release-maven/compare/v1.0.3...v1.0.4) (2021-09-07)
+
+
+### Bug Fixes
+
+* export files ([6e6c9f7](https://github.com/akijoey/semantic-release-maven/commit/6e6c9f7378a75e9b43576ebe7d747abf2f6d4b15))
+
 ## [1.0.3](https://github.com/akijoey/semantic-release-maven/compare/v1.0.2...v1.0.3) (2021-09-07)
 
 
