@@ -1,3 +1,10 @@
+## [1.0.5](https://github.com/akijoey/semantic-release-maven/compare/v1.0.4...v1.0.5) (2021-09-08)
+
+
+### Bug Fixes
+
+* debug prepare ([6a92f5e](https://github.com/akijoey/semantic-release-maven/commit/6a92f5e3194fd00f383878e1cc3de48b9adaaa51))
+
 ## [1.0.4](https://github.com/akijoey/semantic-release-maven/compare/v1.0.3...v1.0.4) (2021-09-07)
 
 
