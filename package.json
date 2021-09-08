@@ -42,6 +42,9 @@
   "commitlint": {
     "extends": "@akijoey/commitlint-config"
   },
+  "release": {
+    "extends": "@akijoey/semantic-release-config"
+  },
   "lint-staged": {
     "*.js": "npm run lint",
     "*.{js,json,yml}": "npm run format"
