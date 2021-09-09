@@ -1,3 +1,10 @@
+## [1.0.7](https://github.com/akijoey/semantic-release-maven/compare/v1.0.6...v1.0.7) (2021-09-09)
+
+
+### Bug Fixes
+
+* await execa ([1b0dff8](https://github.com/akijoey/semantic-release-maven/commit/1b0dff8f990f5f0b674c5e027c253a440bd7499e))
+
 ## [1.0.6](https://github.com/akijoey/semantic-release-maven/compare/v1.0.5...v1.0.6) (2021-09-08)
 
 
