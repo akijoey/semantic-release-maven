@@ -1,3 +1,10 @@
+## [1.0.8](https://github.com/akijoey/semantic-release-maven/compare/v1.0.7...v1.0.8) (2021-09-10)
+
+
+### Bug Fixes
+
+* no transfer progress ([d2171ba](https://github.com/akijoey/semantic-release-maven/commit/d2171baa22725051bfa3f331bb935756d2ceb149))
+
 ## [1.0.7](https://github.com/akijoey/semantic-release-maven/compare/v1.0.6...v1.0.7) (2021-09-09)
 
 
