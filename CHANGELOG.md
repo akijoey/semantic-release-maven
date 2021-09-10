@@ -1,3 +1,10 @@
+## [1.0.10](https://github.com/akijoey/semantic-release-maven/compare/v1.0.9...v1.0.10) (2021-09-10)
+
+
+### Bug Fixes
+
+* sed script ([bb0694b](https://github.com/akijoey/semantic-release-maven/commit/bb0694bce2ea8e02aca2ca73ffa4d08a1d779e6d))
+
 ## [1.0.9](https://github.com/akijoey/semantic-release-maven/compare/v1.0.8...v1.0.9) (2021-09-10)
 
 
