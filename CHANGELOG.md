@@ -1,3 +1,10 @@
+## [1.0.9](https://github.com/akijoey/semantic-release-maven/compare/v1.0.8...v1.0.9) (2021-09-10)
+
+
+### Bug Fixes
+
+* await prepare ([b158ab4](https://github.com/akijoey/semantic-release-maven/commit/b158ab42e069626694501a671aeaa651e219e9b1))
+
 ## [1.0.8](https://github.com/akijoey/semantic-release-maven/compare/v1.0.7...v1.0.8) (2021-09-10)
 
 
