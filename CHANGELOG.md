@@ -1,3 +1,10 @@
+## [1.1.2](https://github.com/akijoey/semantic-release-maven/compare/v1.1.1...v1.1.2) (2021-09-10)
+
+
+### Bug Fixes
+
+* cat pom ([37c720d](https://github.com/akijoey/semantic-release-maven/commit/37c720d8c2c4d6526235c636a6c59cea21331d61))
+
 ## [1.1.1](https://github.com/akijoey/semantic-release-maven/compare/v1.1.0...v1.1.1) (2021-09-10)
 
 
