@@ -1,3 +1,10 @@
+## [1.1.4](https://github.com/akijoey/semantic-release-maven/compare/v1.1.3...v1.1.4) (2021-09-17)
+
+
+### Bug Fixes
+
+* add test ([4b89890](https://github.com/akijoey/semantic-release-maven/commit/4b89890bde6a78dd1953ae7c92832110970d534d))
+
 ## [1.1.3](https://github.com/akijoey/semantic-release-maven/compare/v1.1.2...v1.1.3) (2021-09-10)
 
 
