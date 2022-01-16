@@ -1,3 +1,10 @@
+## [1.1.5](https://github.com/akijoey/semantic-release-maven/compare/v1.1.4...v1.1.5) (2022-01-16)
+
+
+### Bug Fixes
+
+* upgrade devkit ([2f3ac0d](https://github.com/akijoey/semantic-release-maven/commit/2f3ac0d97eb5930e39c87c52fc1ed9f71b696d70))
+
 ## [1.1.4](https://github.com/akijoey/semantic-release-maven/compare/v1.1.3...v1.1.4) (2021-09-17)
 
 
