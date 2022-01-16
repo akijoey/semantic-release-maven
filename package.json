@@ -13,14 +13,15 @@
   "main": "index.js",
   "files": [
     "index.js",
-    "lib/",
-    "settings.xml"
+    "settings.xml",
+    "lib/"
   ],
   "scripts": {
-    "lint": "dev-scripts lint",
-    "test": "dev-scripts test",
-    "format": "dev-scripts format",
-    "prepare": "dev-scripts hook"
+    "lint": "devkit lint",
+    "test": "devkit test",
+    "format": "devkit format",
+    "prepare": "devkit prepare",
+    "release": "devkit release"
   },
   "dependencies": {
     "aggregate-error": "^3.1.0",
@@ -29,24 +30,9 @@
     "xml2js": "^0.4.23"
   },
   "peerDependencies": {
-    "semantic-release": "^17.4.4"
+    "semantic-release": "^18.0.1"
   },
   "devDependencies": {
-    "@akijoey/dev-scripts": "latest"
-  },
-  "eslintConfig": {
-    "root": true,
-    "extends": "@akijoey"
-  },
-  "prettier": "@akijoey/prettier-config",
-  "commitlint": {
-    "extends": "@akijoey/commitlint-config"
-  },
-  "release": {
-    "extends": "@akijoey/semantic-release-config"
-  },
-  "lint-staged": {
-    "*.js": "npm run lint",
-    "*.{js,json,yml}": "npm run format"
+    "@akijoey/devkit": "latest"
   }
 }
