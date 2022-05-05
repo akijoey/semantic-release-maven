@@ -28,6 +28,12 @@ The plugin can be configured in the semantic-release configuration file:
     "@semantic-release/release-notes-generator",
     "semantic-release-maven"
   ],
+
+  "prepare": [
+    {
+      "path": "semantic-release-maven"
+    }
+  ],
   
   "publish": [
     {
@@ -45,6 +51,9 @@ plugins:
   - "@semantic-release/commit-analyzer"
   - "@semantic-release/release-notes-generator"
   - semantic-release-maven
+  
+prepare:
+  - path: "semantic-release-maven"
   
 publish:
   - path: semantic-release-maven
