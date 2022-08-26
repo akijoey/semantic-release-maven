@@ -30,7 +30,7 @@
     "xml2js": "^0.4.23"
   },
   "peerDependencies": {
-    "semantic-release": "^18.0.1"
+    "semantic-release": "^19.0.5"
   },
   "devDependencies": {
     "@akijoey/devkit": "latest"
