@@ -1,3 +1,10 @@
+## [1.1.6](https://github.com/akijoey/semantic-release-maven/compare/v1.1.5...v1.1.6) (2022-09-07)
+
+
+### Bug Fixes
+
+* update semantic-release version ([#32](https://github.com/akijoey/semantic-release-maven/issues/32)) ([ca9ae1a](https://github.com/akijoey/semantic-release-maven/commit/ca9ae1ac6f80de7fa7e45a3b65c13632a15e62f9))
+
 ## [1.1.5](https://github.com/akijoey/semantic-release-maven/compare/v1.1.4...v1.1.5) (2022-01-16)
 
 
