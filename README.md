@@ -55,7 +55,7 @@ The plugin can be configured in the semantic-release configuration file:
 
 [npm-image]: https://img.shields.io/npm/v/semantic-release-maven
 [npm-url]: https://www.npmjs.com/package/semantic-release-maven
-[build-image]: https://img.shields.io/github/workflow/status/akijoey/semantic-release-maven/Build
+[build-image]: https://img.shields.io/github/actions/workflow/status/akijoey/semantic-release-maven/build.yml
 [build-url]: https://github.com/akijoey/semantic-release-maven/actions/workflows/build.yml
 [coverage-image]: https://img.shields.io/codecov/c/gh/akijoey/semantic-release-maven
 [coverage-url]: https://codecov.io/gh/akijoey/semantic-release-maven
