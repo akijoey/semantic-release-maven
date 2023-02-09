@@ -1,3 +1,11 @@
+## [1.1.7](https://github.com/akijoey/semantic-release-maven/compare/v1.1.6...v1.1.7) (2023-02-09)
+
+
+### Bug Fixes
+
+* ignore filemode ([a2aeae4](https://github.com/akijoey/semantic-release-maven/commit/a2aeae411f8312a58c475fce30272c6f2d69c877))
+* maintain lockfile ([582c194](https://github.com/akijoey/semantic-release-maven/commit/582c194238a145d74dd0df46f6c497a5d1dc6049))
+
 ## [1.1.6](https://github.com/akijoey/semantic-release-maven/compare/v1.1.5...v1.1.6) (2022-09-07)
 
 
