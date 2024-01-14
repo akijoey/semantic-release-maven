@@ -1,3 +1,10 @@
+## [1.1.8](https://github.com/akijoey/semantic-release-maven/compare/v1.1.7...v1.1.8) (2024-01-14)
+
+
+### Bug Fixes
+
+* update peer dependencies ([34d48d1](https://github.com/akijoey/semantic-release-maven/commit/34d48d12246700bf6c9e3d3a30ea7417e40220c1))
+
 ## [1.1.7](https://github.com/akijoey/semantic-release-maven/compare/v1.1.6...v1.1.7) (2023-02-09)
 
 
