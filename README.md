@@ -27,10 +27,39 @@ The plugin can be configured in the semantic-release configuration file:
     "@semantic-release/commit-analyzer",
     "@semantic-release/release-notes-generator",
     "semantic-release-maven"
+  ],
+
+  "prepare": [
+    {
+      "path": "semantic-release-maven"
+    }
+  ],
+  
+  "publish": [
+    {
+      "path": "semantic-release-maven",
+      "profiles": ["release"]
+    }
   ]
 }
 ```
 
+or if you are using YAML
+
+```yaml
+plugins:
+  - "@semantic-release/commit-analyzer"
+  - "@semantic-release/release-notes-generator"
+  - semantic-release-maven
+  
+prepare:
+  - path: "semantic-release-maven"
+  
+publish:
+  - path: semantic-release-maven
+    profiles:
+      - release
+``` 
 ## Configuration
 
 ### Environment variables
